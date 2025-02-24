@@ -33,7 +33,7 @@ jobs:
           iq-server-url: http://localhost:8070
           username: admin
           password: admin123
-          application-id: lifecycle-app
+          application-id: defaultbranch-test__vaskorg
           scan-targets: pom.xml
 
       # Runs a set of commands using the runners shell
